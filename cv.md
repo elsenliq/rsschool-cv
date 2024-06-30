@@ -46,3 +46,11 @@ I’m responsible, always up for learning something new, and looking for a tech 
 - Emotional intelligent
 
 ---
+
+### _Code example_
+
+```
+function multiply(a, b){
+  return a * b;
+}
+```
