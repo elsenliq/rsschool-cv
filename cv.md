@@ -76,3 +76,11 @@ hostess, bartender, waitress
 > #### May 2022 - November 2023 | Austria
 
 ---
+
+### _Languages_
+
+- Ukrainian - Native
+- Russian - Native
+- English - Fluent
+- German - Elementary
+- French - Beginner
