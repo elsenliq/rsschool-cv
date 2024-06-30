@@ -59,10 +59,20 @@ function multiply(a, b){
 
 ### _Education_
 
-#### V.N. Karazin Kharkiv National University
+#### Aida Café
 
 Philology
 
 > #### September 2020 - up to now | Ukraine
+
+---
+
+### _Work experience_
+
+#### V.N. Karazin Kharkiv National University
+
+hostess, bartender, waitress
+
+> #### May 2022 - November 2023 | Austria
 
 ---
