@@ -54,3 +54,15 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+---
+
+### _Education_
+
+#### V.N. Karazin Kharkiv National University
+
+Philology
+
+> #### September 2020 - up to now | Ukraine
+
+---
