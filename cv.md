@@ -37,3 +37,12 @@ I’m responsible, always up for learning something new, and looking for a tech 
 - Data analythics (basics)
 
 ---
+
+### _Soft skills_
+
+- Time management
+- Teamwork
+- Communication
+- Emotional intelligent
+
+---
