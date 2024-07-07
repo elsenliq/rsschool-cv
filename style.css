@@ -65,7 +65,7 @@ header h2 {
 }
 
 .contacts ul,
-.skills ul,
+.soft-skills ul,
 .tech-skills ul,
 .languages ul {
     list-style: none;
@@ -73,7 +73,7 @@ header h2 {
 }
 
 .contacts li,
-.skills li,
+.soft-skills li,
 .tech-skills li,
 .languages li {
     margin-bottom: 10px;
