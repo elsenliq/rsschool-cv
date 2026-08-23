@@ -166,3 +166,63 @@ pre {
     padding-left: 15px;
     transition: background-color 0.3s ease, border-left 0.3s ease, padding-left 0.3s ease;
 }
+
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .section-sidebar {
+        display: none;
+    }
+
+    .container {
+        display: block;
+        width: 100%;
+        max-width: none;
+        margin-left: 0;
+        border: none;
+    }
+
+    .sidebar,
+    .main-content {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .sidebar {
+        padding: 20px;
+        border-right: none;
+        border-bottom: 1px solid #eaeaea;
+    }
+
+    .main-content {
+        padding: 20px;
+    }
+
+    header {
+        padding: 20px 15px;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    header h2 {
+        font-size: 1em;
+    }
+
+    .photo {
+        width: 130px;
+        height: 130px;
+    }
+
+    .main-content section {
+        margin-bottom: 30px;
+    }
+
+    pre {
+        white-space: pre-wrap;
+        word-break: break-word;
+    }
+}
